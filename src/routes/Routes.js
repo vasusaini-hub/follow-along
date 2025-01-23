@@ -1,3 +1,4 @@
 import LoginPage from "../pages/loginPage";
 import Login from "../component/auth/Login";
-export {Login,LoginPage};
+import HomePage from "../pages/HomePage";
+export {Login,LoginPage,HomePage};
